@@ -8,18 +8,18 @@ a = "\033[031m"
 os.system('clear')
 print ("======================================")
 print ("AUTHOR : Mr XXXTRI3WSL")
-print ("YOUTUBE: AGUNG ZKYT")
-print ("TEAM   : NCPH - Network Crack")
+print ("YOUTUBE: Ranz Team")
+print ("TEAM   : None")
 print ("LU BURIQ DAN GUA GANS")
 print ("======================================")
 print
 print ("================   ================")
-print ("088219478540          INDONESIA")
+print ("088233965911          INDONESIA")
 print ("=============      ================")
 time.sleep(2)
 print
 print ("===============================")
-print ("GASKEUN BOSQ OJO LALI WOK WOK")
+print ("GASKEUN COOK!!!")
 print ("===============================")
 print
 print
@@ -45,8 +45,8 @@ os.system('clear')
 print ("█████████")
 print ("█▄█████▄█================================")
 print ("█▼▼▼▼▼     Author : Mr XXXTRI3WSL")
-print ("█          Youtube: AGUNG ZKYT")
-print ("█▲▲▲▲▲     Team   : NCPH - Network Crack")
+print ("█          Youtube: Ranz Team")
+print ("█▲▲▲▲▲     Team   : None")
 print ("█████████================================")
 print ("_██____██")
 print
